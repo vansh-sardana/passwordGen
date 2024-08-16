@@ -118,7 +118,7 @@ const App = () => {
     return (
         <div className="wrapper w-[100vw] h-[100vh] min-h-[100%] flex justify-center items-center overflow-y-auto">
             <div className="container w-[90%] max-w-[450px]">
-                <h1 className="text-[32px] mb-[1.8rem] opacity-80 leading-[1.2rem] tracking-[2px] font-[600] uppercase text-white text-center">
+                <h1 className="text-[32px] mb-[1.8rem] opacity-80 leading-[2rem] tracking-[2px] font-[600] uppercase text-white text-center">
                     Password Generator
                 </h1>
                 <div className="displayContainer">
